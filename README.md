@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![e-commerce](https://user-images.githubusercontent.com/46208188/201435339-ac1ee3df-d963-4a65-9b26-8990a15b2cd6.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
